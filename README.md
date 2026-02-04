@@ -78,15 +78,14 @@ User Task → Planner → Executor → Verifier → Final Output
 
 \## Environment Variables
 
+Create a `.env` file (do NOT commit it).  
+Use `.env.example` as a reference.
 
+Required variables:
 
-Create `.env` file:
+GROQ_API_KEY=your_groq_api_key_here  
+WEATHER_API_KEY=your_openweather_api_key_here
 
-
-
-GROQ\_API\_KEY=your\_groq\_api\_key\_here
-
-WEATHER\_API\_KEY=your\_openweather\_api\_key\_here
 
 
 
